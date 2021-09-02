@@ -1,6 +1,13 @@
-<script src="https://kit.fontawesome.com/2f4889854d.js" crossorigin="anonymous"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<style>
+  <script src="https://kit.fontawesome.com/2f4889854d.js" crossorigin="anonymous"></script>
+
+  <style>
     * {
       /* color: black; */
       margin: 0;
@@ -59,15 +66,18 @@
       font-size: 15px;
     }
   </style>
-
-<div class="profile_container">
-  <div class="profile_container__infos">
-    <h1>Olá, sou o Henrique Garcia</h1>
-    <h2>Desenvolvedor front-end</h2>
-    <p>Iniciei meu caminho na programação com programação de jogos, onde tive meu primeiro contato com códigos e aprendi C# para Unity. <br> Após isso, resolvi juntar a programação com design, tema paralelo aos meus interesses, que me levou a conhecer o INCRÍVEL front-end.Desde então, busco constantemente por especializações, visando me tornar um profissional referência na área.</p>
+</head>
+<body>
+  <div class="profile_container">
+    <div class="profile_container__infos">
+      <h1>Olá, sou o Henrique Garcia</h1>
+      <h2>Desenvolvedor front-end</h2>
+      <p>Iniciei meu caminho na programação com programação de jogos, onde tive meu primeiro contato com códigos e aprendi C# para Unity. <br> Após isso, resolvi juntar a programação com design, tema paralelo aos meus interesses, que me levou a conhecer o INCRÍVEL front-end.Desde então, busco constantemente por especializações, visando me tornar um profissional referência na área.</p>
+    </div>
+    <div class="profile_container__main_skills">
+      <div class="profile_container__main_skills__title">Minhas principais habilidades</div>
+      <i class="fab fa-js-square"></i>
+    </div>
   </div>
-  <div class="profile_container__main_skills">
-    <div class="profile_container__main_skills__title">Minhas principais habilidades</div>
-    <i class="fab fa-js-square"></i>
-  </div>
-</div>
+</body>
+</html>
