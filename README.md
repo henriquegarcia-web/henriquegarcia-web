@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div>
-  <h1 align="center">Olá 👋🏼 Eu sou o <a href="https://www.linkedin.com/in/henrique-p-garcia/"><i>Henrique Garcia</i></a> 😉</h1>
+  <h1 align="center">Olá 👋🏼 Eu sou o <a href="https://www.linkedin.com/in/henrique-p-garcia/"><i>Henrique Garcia</i></a> 🙂</h1>
   <p align="center">Escrevi meu primeiro código em 2018, programando jogos, até que conheci o front-end, desde então estou em constante evolução, buscando estar sempre atualizado e de acordo com as tendências da área. Tenho verdadeira paixão pela programação e suas possibilidades.</p>
 </div>
 
